@@ -26,8 +26,25 @@ COBIT separates governance from management. Governance involves a system of chec
 
 ISO/IEC 27001 is the international standard for establishing, implementing, and maintaining an Information Security Management System (ISMS) to protect sensitive information systematically and effectively.
 
-Health and Safety at Work Act 
-This covers things such as the transport of equipment and the protection of employees as their carry out their 
-roles. Personal protective equipment (PPE) needs to also be considered when it comes to protecting employees. 
-The Health and Safety at Work Act can relate to any future infrastructure changes and/or changes to current 
-physical infrastructure.
+Service Organisation Controls (SOC 2) 
+
+What is it?
+SOC 2 is a security framework that specifies how organizations should protect customer data from unauthorized access, security incidents, and other vulnerabilities.
+
+SOC 2 Trust Service Criteria
+1.	Security
+Protecting information from unauthorized access 
+
+2.	Availability
+Ensuring employees and clients can rely on your systems to perform their work 
+
+3.	Processing Integrity
+Verifying that company systems operate as intended 
+
+4.	Confidentiality
+Protecting confidential information by limiting its access, storage, and use 
+
+5.	Privacy
+Safeguarding sensitive personal information against unauthorized users 
+
+A SOC 2 audit includes a rigorous examination of the design and operating effectiveness of an organization’s controls by an accredited CPA. The CPA will run tests, review evidence, and interview members of your team before producing a final report, which provides their opinion on how your service organization complies with your selected Trust Services Criteria.
